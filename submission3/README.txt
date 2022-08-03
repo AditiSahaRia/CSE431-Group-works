@@ -1,11 +1,12 @@
 Link to unlisted youtube video:
-Review on book chapter 17- Information Extraction - YouTube
+https://www.youtube.com/watch?v=NQAzgdUpwt0
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
+CSE431-Task-2-Paper-Presentation/Concept Map.pdf at main · AditiSahaRia/CSE431-Task-2-Paper-Presentation (github.com)
 
 Native/original format: 
-Concept Map - diagrams.net
+https://app.diagrams.net/?client=1
 
 Name, Author, Edition, year and publisher of the Book:
 Speech and Language Processing
@@ -18,7 +19,7 @@ Link to the book:
 Speech and Language Processing (stanford.edu)
 
 Link to the book chapter:
-17.pdf (stanford.edu)
+Chapter 17.pdf (stanford.edu)
 
 Group Number:
 4
