@@ -3,7 +3,7 @@ https://www.youtube.com/watch?v=NQAzgdUpwt0
 
 Two public link to the Concept Map (anyone on the internet can view without login):
 PDF: 
-CSE431-Task-2-Paper-Presentation/Concept Map.pdf at main · AditiSahaRia/CSE431-Task-2-Paper-Presentation (github.com)
+https://github.com/AditiSahaRia/CSE431-Task-2-Paper-Presentation/blob/main/submission3/Concept%20Map.pdf
 
 Native/original format: 
 https://app.diagrams.net/?client=1
@@ -16,10 +16,10 @@ Jurafsky
 Pearson
 
 Link to the book:
-Speech and Language Processing (stanford.edu)
+https://web.stanford.edu/~jurafsky/slp3/
 
 Link to the book chapter:
-Chapter 17.pdf (stanford.edu)
+https://web.stanford.edu/~jurafsky/slp3/17.pdf
 
 Group Number:
 4
